@@ -1,0 +1,6 @@
+region = "us-east-1"
+snapshot_identifier = "your-snapshot-id"
+restore_db_instance_identifier = "restored-cluster"
+db_name = "mydatabase"
+db_user = "admin"
+db_password = "YourPassword123"
